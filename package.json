@@ -1,0 +1,19 @@
+{
+  "name": "hunger-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first Next.js dashboard that turns standup notes into hunger tokens, stomach fill, coupons, and weekly appetite reports.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}
